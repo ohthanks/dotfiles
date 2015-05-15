@@ -10,37 +10,38 @@ filetype plugin indent on
 set t_Co=256
 set encoding=utf-8 " Necessary to show Unicode glyphs
 
-"show invis
+" show invis
 set list
 
-"no word wrap
+" no word wrap
 set nowrap
 
-"set cursorcolumn
+" set cursorcolumn
 set cursorline
 
-colorscheme herald 
+" colorscheme herald 
+colorscheme zenburn 
 
-"don't use local rc 
+" don't use local rc 
 set noexrc
 
-"force vim
+" force vim
 set nocompatible
 
-"highlighting on
+" highlighting on
 syntax on
 
-"linenumbers on
+" linenumbers on
 set number
 
-"ignore case in search
+" ignore case in search
 set ignorecase
 set smartcase
 
-"search highlight
+" search highlight
 set hlsearch
 
-"hl as type
+" hl as type
 set incsearch
 
 let g:ctrlp_match_window_bottom = 0
@@ -50,13 +51,13 @@ let g:ctrlp_working_path_mode = 0
 let g:ctrlp_dotfiles = 0
 let g:ctrlp_switch_buffer = 0
 
-"set scroll distance around cursor
+" set scroll distance around cursor
 set scrolloff=3
 
-"set undo history
+" set undo history
 set history=1000
 
-"tabspaces
+" tabspaces
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
@@ -71,30 +72,38 @@ set noexpandtab
 " filetype indent off
 " filetype plugin indent off
 
-"turn on background buffers
+" turn on background buffers
 set hidden
 
-"set listchars=tab:>-,eol:^
+" set listchars=tab:>-,eol:^
 " "set hidden chars
 " "set lcs=tab:\|\ ,eol:^,trail:.,nbsp:%
 set lcs=tab:\.\ ,eol:^
 
-"powerline setup
-let g:Powerline_symbols = 'compatible'
-"set figlet
+" powerline setup
+"let g:Powerline_symbols = 'compatible'
+let g:Powerline_symbols = 'fancy'
+set rtp+=~/.dotfiles/.vim/bundle/powerline/powerline/bindings/vim
+" set guifont =Sauce\ Code\ Powerline:h12
+set guifont =Inconsolata-dz\ for\ Powerline
+
+
+
+" set figlet
 let g:figletFont = 'larry3d'
 
-"no bell
+" no bell
 set visualbell
 
 "set status line
 " set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ %{strftime(\"%d/%m/%y\ -\ %H:%M\")}
 
-"set status for single window 
+" set status for single window 
 set laststatus=2
 
-"set command line height
+" set command line height
 set cmdheight=1
+
 
 "set 256 on, *SEEMS TO WORK, OH JEEZ*
 if &term =~ "xterm"
