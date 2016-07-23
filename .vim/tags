@@ -1,0 +1,948 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+<C-n>	/Users/joe/.dotfiles/.vimrc	/^nmap <C-n> :bnext<CR>$/;"	m	language:Vim
+<C-p>	/Users/joe/.dotfiles/.vimrc	/^nmap <C-p> :bprev<CR>$/;"	m	language:Vim
+<leader>!	/Users/joe/.dotfiles/.vimrc	/^map <leader>! :call ToggleNumber()<CR>$/;"	m	language:Vim
+<leader>b	/Users/joe/.dotfiles/.vimrc	/^nmap <leader>b :TagbarToggle<CR>$/;"	m	language:Vim
+<leader>l	/Users/joe/.dotfiles/.vimrc	/^nmap <leader>l :set list!<CR>$/;"	m	language:Vim
+<leader>s	/Users/joe/.dotfiles/.vimrc	/^nnoremap <leader>s :mksession<CR>$/;"	m	language:Vim
+<leader>t	/Users/joe/.dotfiles/.vimrc	/^map <leader>t :NERDTreeToggle<CR>$/;"	m	language:Vim
+<leader>u	/Users/joe/.dotfiles/.vimrc	/^nnoremap <leader>u :GundoToggle<CR>$/;"	m	language:Vim
+abstract	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^		abstract = True$/;"	v	language:Python	class:ProductImageUtil.Meta
+add_arguments	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^	def add_arguments(self, parser):$/;"	m	language:Python	class:Command
+admin	/Users/joe/Sites/pwp_v2/pwp_v2/config/urls.py	/^from django.contrib import admin$/;"	i	language:Python
+admin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^from django.contrib import admin$/;"	i	language:Python
+admin	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/admin.py	/^from django.contrib import admin$/;"	i	language:Python
+admin_code	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	def admin_code(self, obj):$/;"	m	language:Python	class:ProductImageSetAdmin
+admin_description	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	def admin_description(self, obj):$/;"	m	language:Python	class:ProductAdmin
+admin_description	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	def admin_description(self, obj):$/;"	m	language:Python	class:ProductImageSetAdmin
+admin_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	def admin_name(self, obj):$/;"	m	language:Python	class:ProductAdmin
+admin_thumbnail	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def admin_thumbnail(self):$/;"	m	language:Python	class:ProductImage
+admin_thumbnail	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	def admin_thumbnail(self):$/;"	m	language:Python	class:Image
+admin_title	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	def admin_title(self, obj):$/;"	m	language:Python	class:ProductImageSetAdmin
+admin_title	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def admin_title(self):$/;"	m	language:Python	class:ProductImage
+admin_title	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	def admin_title(self):$/;"	m	language:Python	class:Image
+ALLOWED_HOSTS	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^ALLOWED_HOSTS = env('ALLOWED_HOSTS')$/;"	v	language:Python
+alphabetical_index	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def alphabetical_index(request):$/;"	m	language:Python	class:pwpView
+alt_tag	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	alt_tag = models.CharField($/;"	v	language:Python	class:ProductImage
+alt_tag	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	alt_tag = models.CharField($/;"	v	language:Python	class:Image
+apps	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^from django.apps import apps$/;"	i	language:Python
+APP_DIR	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^APP_DIR = os.path.join(BASE_DIR, 'pwp')$/;"	v	language:Python
+articles	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def articles(request):$/;"	m	language:Python	class:pwpView
+as568	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	as568 = models.CharField($/;"	v	language:Python	class:OringFeature
+assetsCSS	/Users/joe/Sites/purauv-fc/gulp/config.js	/^var assetsCSS = 'templates\/assets\/css';$/;"	v	language:JavaScript
+assetsJS	/Users/joe/Sites/purauv-fc/gulp/config.js	/^var assetsJS = 'templates\/assets\/js';$/;"	v	language:JavaScript
+assetsSCSS	/Users/joe/Sites/purauv-fc/gulp/config.js	/^var assetsSCSS = 'templates\/assets\/scss';$/;"	v	language:JavaScript
+BackwashingFeature	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class BackwashingFeature(models.Model):$/;"	c	language:Python
+BackwashingFeatureInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class BackwashingFeatureInline(admin.TabularInline):$/;"	c	language:Python
+BaseCommand	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^from django.core.management.base import BaseCommand, CommandError$/;"	i	language:Python
+BASE_DIR	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	v	language:Python
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = False,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True$/;"	v	language:Python	class:Category
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True$/;"	v	language:Python	class:Material
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True$/;"	v	language:Python	class:ProductImage
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True$/;"	v	language:Python	class:TankFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True$/;"	v	language:Python	class:UltraVioletFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:BackwashingFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:BackwashingFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:Document
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:FilterStageList
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:FilterStageList
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:OringFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:OringFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:OringFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:OringFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:Port
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:ProductGroup
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:ProductGroup
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:ProductGroup
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:ProductImage
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:RelatedProductList
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:SoftenerFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:TankFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:TankFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:TankFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:TankFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:TankFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:TankFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:UltraVioletFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank = True,$/;"	v	language:Python	class:VendorListingList
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True, $/;"	v	language:Python	class:CartFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True, $/;"	v	language:Python	class:Port
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:CartFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:CartridgeFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:CartridgeFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:CartridgeFeature
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Category
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Manufacturer
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Manufacturer
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Port
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		blank=True,$/;"	v	language:Python	class:Product
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		blank = True$/;"	v	language:Python	class:Image
+blank	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		blank = True,$/;"	v	language:Python	class:Image
+bottom_drain	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	bottom_drain = models.BooleanField($/;"	v	language:Python	class:TankFeature
+brine_safety	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	brine_safety = models.BooleanField($/;"	v	language:Python	class:TankFeature
+brine_tank	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	brine_tank = models.ForeignKey($/;"	v	language:Python	class:SoftenerFeature
+capacity_empty	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	capacity_empty = models.CharField($/;"	v	language:Python	class:TankFeature
+capacity_pressurized	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	capacity_pressurized = models.CharField($/;"	v	language:Python	class:TankFeature
+caption	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	caption = models.CharField($/;"	v	language:Python	class:ProductImage
+caption	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	caption = models.CharField($/;"	v	language:Python	class:Image
+CartFeature	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class CartFeature(models.Model):$/;"	c	language:Python
+CartFeatureInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class CartFeatureInline(admin.StackedInline):$/;"	c	language:Python
+CartOptionAdmin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class CartOptionAdmin(admin.ModelAdmin):$/;"	c	language:Python
+CartOptionLegacy	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class CartOptionLegacy(models.Model):$/;"	c	language:Python
+CartOptionList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class CartOptionList(models.Model):$/;"	c	language:Python
+CartOptionListInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class CartOptionListInline(SortableInlineAdminMixin, admin.TabularInline):$/;"	c	language:Python
+cartridge	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	cartridge = models.ForeignKey($/;"	v	language:Python	class:FilterStageList
+CartridgeFeature	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class CartridgeFeature(models.Model):$/;"	c	language:Python
+CartridgeFeatureInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class CartridgeFeatureInline(admin.TabularInline):$/;"	c	language:Python
+cartridges_candle	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_candle(request):$/;"	m	language:Python	class:pwpView
+cartridges_inline	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_inline(request):$/;"	m	language:Python	class:pwpView
+cartridges_list	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_list(request):$/;"	m	language:Python	class:pwpView
+cartridges_membranes	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_membranes(request):$/;"	m	language:Python	class:pwpView
+cartridges_microline	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_microline(request):$/;"	m	language:Python	class:pwpView
+cartridges_multipure	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_multipure(request):$/;"	m	language:Python	class:pwpView
+cartridges_q_series	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_q_series(request):$/;"	m	language:Python	class:pwpView
+cartridges_replacement_packs	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_replacement_packs(request):$/;"	m	language:Python	class:pwpView
+cartridges_size_1	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_size_1(request):$/;"	m	language:Python	class:pwpView
+cartridges_size_2	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_size_2(request):$/;"	m	language:Python	class:pwpView
+cartridges_size_3	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_size_3(request):$/;"	m	language:Python	class:pwpView
+cartridges_size_4	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_size_4(request):$/;"	m	language:Python	class:pwpView
+cartridges_sprite	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def cartridges_sprite(request):$/;"	m	language:Python	class:pwpView
+cart_category	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	cart_category = models.CharField($/;"	v	language:Python	class:CartFeature
+CART_CATEGORY_CARTRIDGE	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	CART_CATEGORY_CARTRIDGE = 'cartridge'$/;"	v	language:Python	class:CartFeature
+cart_category_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	cart_category_choices = ($/;"	v	language:Python	class:CartFeature
+CART_CATEGORY_DEFAULT	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	CART_CATEGORY_DEFAULT = 'default'$/;"	v	language:Python	class:CartFeature
+CART_CATEGORY_DROPSHIP	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	CART_CATEGORY_DROPSHIP = 'dropship'$/;"	v	language:Python	class:CartFeature
+CART_CATEGORY_DROPSHIP_CARTRIDGE	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	CART_CATEGORY_DROPSHIP_CARTRIDGE = 'dropship_cartridge'$/;"	v	language:Python	class:CartFeature
+CART_CATEGORY_OVERSIZED	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	CART_CATEGORY_OVERSIZED = 'oversized'$/;"	v	language:Python	class:CartFeature
+CART_CATEGORY_OVERSIZED_CARTRIDGE	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	CART_CATEGORY_OVERSIZED_CARTRIDGE = 'oversized_cartridge'$/;"	v	language:Python	class:CartFeature
+cart_description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	cart_description = models.TextField($/;"	v	language:Python	class:CartFeature
+cart_title	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	cart_title = models.CharField($/;"	v	language:Python	class:CartFeature
+categories	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	categories = TreeManyToManyField('Category')$/;"	v	language:Python	class:Product
+Category	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class Category(MPTTModel):$/;"	c	language:Python
+Category	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^from products.models import Product, ProductGroup, Category$/;"	i	language:Python
+CategoryAdmin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class CategoryAdmin(DjangoMpttAdmin):$/;"	c	language:Python
+category_slug	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	category_slug = ['products']$/;"	v	language:Python	class:FilterStageListInline
+category_slugs	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	category_slugs = ['cartridges']$/;"	v	language:Python	class:CartridgeFeatureInline
+category_slugs	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	category_slugs = ['parts_tanks', 'parts_tanks_brine', 'parts_tanks_mineral']$/;"	v	language:Python	class:TankFeatureInline
+category_slugs	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	category_slugs = ['products_uv']$/;"	v	language:Python	class:UltraVioletFeatureInline
+category_slugs	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	category_slugs = ['products_whole-house']$/;"	v	language:Python	class:BackwashingFeatureInline
+category_slugs	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	category_slugs = ['products_whole-house']$/;"	v	language:Python	class:SoftenerFeatureInline
+certification	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	certification = models.ForeignKey('Certification')$/;"	v	language:Python	class:CertificationList
+Certification	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class Certification(models.Model):$/;"	c	language:Python
+CertificationInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class CertificationInline (SortableInlineAdminMixin, admin.TabularInline):$/;"	c	language:Python
+CertificationList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class CertificationList (models.Model):$/;"	c	language:Python
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices = port_position_choices,$/;"	v	language:Python	class:Port
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices = status_choices,$/;"	v	language:Python	class:Product
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices = tank_material_choices,$/;"	v	language:Python	class:TankFeature
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices = tank_type_choices,$/;"	v	language:Python	class:TankFeature
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices = unit_of_measure_choices,$/;"	v	language:Python	class:Product
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices=cart_category_choices,$/;"	v	language:Python	class:CartFeature
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices=flow_path_choices,$/;"	v	language:Python	class:CartridgeFeature
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices=port_type_choices,$/;"	v	language:Python	class:Port
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices=power_choices,$/;"	v	language:Python	class:Product
+choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		choices=tank_size_choices,$/;"	v	language:Python	class:TankFeature
+code	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	code = models.CharField($/;"	v	language:Python	class:Product
+color	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	color = models.CharField(		# Could be handed by a variations table$/;"	v	language:Python	class:Product
+Command	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^class Command(BaseCommand):$/;"	c	language:Python
+CommandError	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^from django.core.management.base import BaseCommand, CommandError$/;"	i	language:Python
+config	/Users/joe/Sites/purauv-fc/gulp/tasks/clean.js	/^var config = require('..\/config');$/;"	v	language:JavaScript
+config	/Users/joe/Sites/purauv-fc/gulp/tasks/stylesheets.js	/^var config = require('..\/config');$/;"	v	language:JavaScript
+contact	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def contact(request):$/;"	m	language:Python	class:pwpView
+create_models	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^	def create_models(self, processed_csv):$/;"	m	language:Python	class:Command
+cross_section	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	cross_section = models.CharField($/;"	v	language:Python	class:OringFeature
+csv	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^import csv$/;"	i	language:Python
+DATABASES	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^DATABASES = {$/;"	v	language:Python
+db_index	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		db_index=True,$/;"	v	language:Python	class:Category
+DEBUG	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^DEBUG = env('DEBUG')$/;"	v	language:Python
+decimal_places	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		decimal_places=2,$/;"	v	language:Python	class:Product
+decimal_places	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		decimal_places=2,$/;"	v	language:Python	class:Product
+default	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		default = False,$/;"	v	language:Python	class:TankFeature
+default	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		default = False,$/;"	v	language:Python	class:TankFeature
+default	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		default = False,$/;"	v	language:Python	class:TankFeature
+default	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		default = False,$/;"	v	language:Python	class:TankFeature
+default	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		default = STATUS_ACTIVE,$/;"	v	language:Python	class:Product
+default	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		default = UNIT_COUNT$/;"	v	language:Python	class:Product
+default	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		default=CART_CATEGORY_DEFAULT,$/;"	v	language:Python	class:CartFeature
+del	/Users/joe/Sites/purauv-fc/gulp/tasks/clean.js	/^var del = require('del');$/;"	v	language:JavaScript
+dependencies	/Users/joe/Sites/pwp_v2/pwp_v2/products/migrations/0037_productgroup.py	/^    dependencies = [$/;"	v	language:Python	class:Migration
+depth	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	depth = models.CharField($/;"	v	language:Python	class:Product
+description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description = models.TextField($/;"	v	language:Python	class:Category
+description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description = models.TextField($/;"	v	language:Python	class:Manufacturer
+description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description = models.TextField($/;"	v	language:Python	class:Material
+description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description = models.TextField($/;"	v	language:Python	class:Product
+description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description = models.TextField($/;"	v	language:Python	class:ProductGroup
+description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description = models.TextField()$/;"	v	language:Python	class:Certification
+description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description = models.TextField()$/;"	v	language:Python	class:Document
+description	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description = models.TextField()$/;"	v	language:Python	class:FilterMedia
+description_extended	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	description_extended = models.TextField($/;"	v	language:Python	class:Product
+display_title	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	display_title = models.CharField($/;"	v	language:Python	class:ProductGroup
+DjangoMpttAdmin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^from django_mptt_admin.admin import DjangoMpttAdmin$/;"	i	language:Python
+DJANGO_APPS	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^DJANGO_APPS = ($/;"	v	language:Python
+docs_manual	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/urls.py	/^from .views import pwpView, docs_manual, test_view$/;"	i	language:Python
+docs_manual	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^def docs_manual(request):$/;"	f	language:Python
+Document	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class Document(models.Model):$/;"	c	language:Python
+DocumentInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class DocumentInline(SortableInlineAdminMixin, admin.StackedInline):$/;"	c	language:Python
+dome_hole	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	dome_hole = models.BooleanField($/;"	v	language:Python	class:TankFeature
+dosage	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	dosage = models.CharField($/;"	v	language:Python	class:UltraVioletFeature
+entertain_me	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^	def entertain_me(self, row_number):$/;"	m	language:Python	class:Command
+env	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^env = environ.Env(DEBUG=(bool, False))$/;"	v	language:Python
+environ	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^import environ$/;"	i	language:Python
+envroot	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^envroot = environ.Path(PROJECT_ROOT)$/;"	v	language:Python
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:CartFeatureInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:CartOptionListInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:CartridgeFeatureInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:CertificationInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:DocumentInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:FilterStageListInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:IncludedProductListInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:MaterialListInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:PartListInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:PortListInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:ProductImageInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:RelatedProductListInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:SoftenerFeatureInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:TankFeatureInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:TankFeatureInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:UltraVioletFeatureInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0$/;"	v	language:Python	class:VendorListingListInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	extra = 0;$/;"	v	language:Python	class:BackwashingFeatureInline
+extra	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/admin.py	/^	extra = 0$/;"	v	language:Python	class:ImageInline
+fair_use	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def fair_use(request):$/;"	m	language:Python	class:pwpView
+FC.api.getShippingOptions.b.address_name	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^FC.api.getShippingOptions=function(a){var b={address_name:a.address_name,state:a.region,country:a.country,city:a.city,postal_code:a.postal_code};FC.customFlatRates.reset();FC.customFlatRates.logic(b);for(var b=!1,c=FC.customFlatRates.shipping_results.length-1;0<=c;c--)FC.customFlatRates.shipping_results[c].hide?FC.customFlatRates.shipping_results.splice(c,1):FC.customFlatRates.shipping_results[c].service_id==a.shipping_service_id&&(b=!0);b||(a.shipping_service_description="",a.shipping_service_id=$/;"	p	language:JavaScript
+FC.cartPaymentRefresh	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^FC.cartPaymentRefresh = function(){$/;"	f	language:JavaScript
+FC.cartUpdate	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^FC.cartUpdate = function(){$/;"	f	language:JavaScript
+FC.customFlatRates.add	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^FC.customFlatRates.add=function(a,b,c,d){FC.customFlatRates.shipping_results.push({method:c,price:b,service_id:a,service_name:d})};FC.customFlatRates.hide=function(a){a=FC.customFlatRates.filterShippingOptions(a);for(var b=0;b<a.length;b++)FC.customFlatRates.shipping_results[a[b]].hide=!0};FC.customFlatRates.show=function(a){a=FC.customFlatRates.filterShippingOptions(a);for(var b=0;b<a.length;b++)FC.customFlatRates.shipping_results[a[b]].hide=!1};$/;"	f	language:JavaScript
+FC.customFlatRates.config.autoSelect	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^	'autoSelect': true, \/* Set to true if you'd like the top shipping option to be automatically selected for the user *\/  $/;"	p	language:JavaScript
+FC.customFlatRates.filterShippingOptions	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^FC.customFlatRates.filterShippingOptions=function(a){if("number"==typeof a)for(var b=0;b<FC.customFlatRates.shipping_results.length;b++){if(FC.customFlatRates.shipping_results[b].service_id==a)return[b]}else{if("string"==typeof a){for(var c=[],d={},b=0;b<FC.customFlatRates.shipping_results.length;b++){var e=FC.customFlatRates.shipping_results[b];d[b]=e.method+" "+e.service_name}if("all"!=a.toLowerCase()){a=\/(fedex|usps|ups)?\\s?([\\w\\s]+)?\/i.exec(a);if(void 0==a||""==a)return;for(b in d)void 0!=a[1]&&$/;"	f	language:JavaScript
+FC.customFlatRates.logic	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^FC.customFlatRates.logic = function(address) {$/;"	f	language:JavaScript
+FC.customFlatRates.modifyPrice.requireShipping	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^function requireShipping(){var a=!1;FC.customFlatRates.config.onLocationChange=!1;if(FC.json.has_multiship)for(i=0;i<FC.json.multiship_data.length;i++)FC.json.multiship_data[i].has_shippable_products&&!FC.json.multiship_data[i].has_live_rate_shippable_products&&(FC.json.multiship_data[i].has_live_rate_shippable_products=!0,FC.json.shipping_address.custom_flat_rates_applied=!0,0==FC.json.multiship_data[i].shipping_service_id&&(FC.json.show_address_entry=!0,"cart"==FC.json.context&&(FC.json.show_shipping_tbd=$/;"	f	language:JavaScript
+FC.customFlatRates.modifyPrice.saveShippingId	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^[FC.json.shipping_address],function(a,c){(!FC.customFlatRates.config.onLocationChange&&FC.util.addressHasLocationInfo(c)||FC.customFlatRates.config.onLocationChange)&&c.has_live_rate_shippable_products&&FC[FC.json.context].getShippingOptions({address:c})})}function saveShippingId(a,b,c){FC.customFlatRates.shipping_service_ids=[];$.each(FC.json.has_multiship?FC.json.multiship_data:[FC.json.shipping_address],function(a,b){FC.customFlatRates.shipping_service_ids[a]=b.shipping_service_id})}$/;"	f	language:JavaScript
+FC.itemCheck	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^FC.itemCheck = function(){$/;"	f	language:JavaScript
+FC.shiptoCheck	/Users/joe/Sites/purauv-fc/templates/assets/js/purauv-fc-cart.js	/^FC.shiptoCheck = function(){$/;"	f	language:JavaScript
+fields	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fields = ('admin_thumbnail', 'image', 'caption', 'admin_title')$/;"	v	language:Python	class:ProductImageAdmin
+fields	/Users/joe/Sites/pwp_v2/pwp_v2/products/migrations/0037_productgroup.py	/^            fields=[$/;"	v	language:Python	class:Migration
+file	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	file  = models.FileField($/;"	v	language:Python	class:Document
+FilterMedia	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class FilterMedia(models.Model):$/;"	c	language:Python
+FilterMediaList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class FilterMediaList(models.Model):$/;"	c	language:Python
+filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/templates/product_garden_hose_filters.html	/^				<a name="filters"><\/a>Suggested Filter Cartridges$/;"	a	language:HTML
+filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/templates/product_garden_hose_filters.html	/^		<a name="filters"><\/a>Suggested Filter Cartridges$/;"	a	language:HTML
+FilterStageList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class FilterStageList(models.Model):$/;"	c	language:Python
+FilterStageListInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class FilterStageListInline(SortableInlineAdminMixin, admin.TabularInline):$/;"	c	language:Python
+filter_media	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	filter_media = models.ForeignKey('FilterMedia')$/;"	v	language:Python	class:FilterMediaList
+filter_media_load	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	filter_media_load = models.CharField(max_length=255)$/;"	v	language:Python	class:FilterMediaList
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:BackwashingFeatureInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:CartFeatureInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:CartOptionListInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:CartridgeFeatureInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:FilterStageListInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:IncludedProductListInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:MaterialListInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:PartListInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:PortListInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:RelatedProductListInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:SoftenerFeatureInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:TankFeatureInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:TankFeatureInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:UltraVioletFeatureInline
+fk_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fk_name = 'product'$/;"	v	language:Python	class:VendorListingListInline
+FLOW_AXIAL	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	FLOW_AXIAL = 'axial'$/;"	v	language:Python	class:CartridgeFeature
+flow_path	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	flow_path = models.CharField($/;"	v	language:Python	class:CartridgeFeature
+flow_path_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	flow_path_choices = ($/;"	v	language:Python	class:CartridgeFeature
+FLOW_RADIAL	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	FLOW_RADIAL = 'radial'$/;"	v	language:Python	class:CartridgeFeature
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		format='JPEG',$/;"	v	language:Python	class:ProductImage
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		format='JPEG',$/;"	v	language:Python	class:ProductImage
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		format='JPEG',$/;"	v	language:Python	class:ProductImage
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		format='JPEG',$/;"	v	language:Python	class:ProductImage
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		format='JPEG',$/;"	v	language:Python	class:ProductImage
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		format='JPEG',$/;"	v	language:Python	class:ProductImage
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		format='JPEG',$/;"	v	language:Python	class:ProductImage
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		format='JPEG',$/;"	v	language:Python	class:ProductImage
+format	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	format = 'JPEG'$/;"	v	language:Python	class:TestSpec
+FOXYCART_URL	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^FOXYCART_URL = env('FOXYCART_URL')$/;"	v	language:Python
+fx_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	fx_name = 'product'$/;"	v	language:Python	class:DocumentInline
+g:easytags_file	/Users/joe/.dotfiles/.vimrc	/^let g:easytags_file = '~\/.vim\/tags'$/;"	v	language:Vim
+g:figletFont	/Users/joe/.dotfiles/.vimrc	/^let g:figletFont = 'larry3d' " set figlet$/;"	v	language:Vim
+g:Powerline_symbols	/Users/joe/.dotfiles/.vimrc	/^let g:Powerline_symbols = 'fancy'$/;"	v	language:Vim
+get	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def get(self, request, *args, **kwargs):$/;"	m	language:Python	class:pwpView
+get_formsets_with_inlines	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	def get_formsets_with_inlines(self, request, obj=None):$/;"	m	language:Python	class:ProductAdmin
+get_model_source	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^		def get_model_source(self, model_name):$/;"	f	language:Python	function:Command.create_models
+get_or_create_product	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^		def get_or_create_product(prod_defaults):$/;"	f	language:Python	function:Command.create_models
+get_queryset	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	def get_queryset(self, request):$/;"	m	language:Python	class:ProductImageSetAdmin
+get_responsive_image_set	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def get_responsive_image_set(self, set_name):$/;"	m	language:Python	class:ProductImage
+grains	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	grains = models.CharField(max_length=255, blank=True, null=True)$/;"	v	language:Python	class:SoftenerFeature
+group_image	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	group_image = models.ImageField($/;"	v	language:Python	class:ProductGroup
+group_loop	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^		def group_loop(n, iterable, fillvalue=None):$/;"	f	language:Python	function:Command.create_models
+group_products	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	group_products = models.ManyToManyField('Product', blank = True)$/;"	v	language:Python	class:ProductGroup
+gulp	/Users/joe/Sites/purauv-fc/gulp/tasks/clean.js	/^var gulp = require('gulp');$/;"	v	language:JavaScript
+gulp	/Users/joe/Sites/purauv-fc/gulp/tasks/stylesheets.js	/^var gulp = require('gulp');$/;"	v	language:JavaScript
+gutil	/Users/joe/Sites/purauv-fc/gulp/tasks/stylesheets.js	/^var gutil = require('gulp-util');$/;"	v	language:JavaScript
+handle	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^	def handle(self, *args, **options):$/;"	m	language:Python	class:Command
+height	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	height = models.CharField($/;"	v	language:Python	class:Product
+help	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^	help = 'Import products from expression engine export.'$/;"	v	language:Python	class:Command
+help_text	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		help_text = 'Full product name',$/;"	v	language:Python	class:Product
+help_text	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		help_text = 'Part Number',$/;"	v	language:Python	class:Product
+Http404	/Users/joe/Sites/pwp_v2/pwp_v2/products/views.py	/^from django.http import Http404$/;"	i	language:Python
+Http404	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^from django.http import Http404$/;"	i	language:Python
+HttpResponse	/Users/joe/Sites/pwp_v2/pwp_v2/products/views.py	/^from django.http import HttpResponse$/;"	i	language:Python
+HttpResponse	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^from django.http import HttpResponse$/;"	i	language:Python
+i	/Users/joe/Sites/pwp_v2/pwp_v2/imagerename.py	/^	i = pro.image()$/;"	v	language:Python
+image	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def image(self):$/;"	m	language:Python	class:Product
+image	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	image = models.ImageField($/;"	v	language:Python	class:ProductImage
+Image	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^from PIL import Image, ImageDraw$/;"	i	language:Python
+image	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	image = models.ImageField($/;"	v	language:Python	class:Image
+Image	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^class Image(models.Model):$/;"	c	language:Python
+ImageDraw	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^from PIL import Image, ImageDraw$/;"	i	language:Python
+ImageInline	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/admin.py	/^class ImageInline(SortableInlineAdminMixin, admin.TabularInline):$/;"	c	language:Python
+ImageSet	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^class ImageSet(models.Model):$/;"	c	language:Python
+ImageSetAdmin	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/admin.py	/^class ImageSetAdmin(admin.ModelAdmin):$/;"	c	language:Python
+ImageSpec	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from imagekit import ImageSpec, register$/;"	i	language:Python
+ImageSpecField	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from imagekit.models import ImageSpecField$/;"	i	language:Python
+image_set	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	image_set = models.ForeignKey($/;"	v	language:Python	class:ProductImage
+image_set	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	image_set = models.ForeignKey($/;"	v	language:Python	class:Image
+image_sets	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	image_sets = {$/;"	v	language:Python	class:ProductImage
+include	/Users/joe/Sites/pwp_v2/pwp_v2/config/urls.py	/^from django.conf.urls import include, url$/;"	i	language:Python
+IncludedProductList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class IncludedProductList(models.Model):$/;"	c	language:Python
+IncludedProductListInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class IncludedProductListInline(SortableInlineAdminMixin, admin.StackedInline):$/;"	c	language:Python
+includes	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	includes = models.ForeignKey($/;"	v	language:Python	class:IncludedProductList
+index	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def index(request):$/;"	m	language:Python	class:pwpView
+index_1x	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	index_1x = ImageSpecField(source='image',$/;"	v	language:Python	class:ProductImage
+index_2x	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	index_2x = ImageSpecField(source='image',$/;"	v	language:Python	class:ProductImage
+inlines	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	inlines = [$/;"	v	language:Python	class:ProductAdmin
+inlines	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	inlines = [$/;"	v	language:Python	class:ProductImageSetAdmin
+inlines	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/admin.py	/^	inlines = [$/;"	v	language:Python	class:ImageSetAdmin
+inner_diameter	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	inner_diameter = models.CharField($/;"	v	language:Python	class:OringFeature
+INSTALLED_APPS	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS$/;"	v	language:Python
+in_house_water_testing	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def in_house_water_testing(request):$/;"	m	language:Python	class:pwpView
+jk	/Users/joe/.dotfiles/.vimrc	/^inoremap jk <ESC> "remap esc  $/;"	m	language:Vim
+landing	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing(request):$/;"	m	language:Python	class:pwpView
+landing_aeration	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_aeration(request):$/;"	m	language:Python	class:pwpView
+landing_cartridges	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_cartridges(request):$/;"	m	language:Python	class:pwpView
+landing_cartridges	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_cartridges(request):$/;"	m	language:Python	class:pwpView
+landing_chemical_injection	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_chemical_injection(request):$/;"	m	language:Python	class:pwpView
+landing_countertop_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_countertop_filters(request):$/;"	m	language:Python	class:pwpView
+landing_drinking_water	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_drinking_water(request):$/;"	m	language:Python	class:pwpView
+landing_filter_housings	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_filter_housings(request):$/;"	m	language:Python	class:pwpView
+landing_fleck_control_valves	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_fleck_control_valves(request):$/;"	m	language:Python	class:pwpView
+landing_large_ro	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_large_ro(request):$/;"	m	language:Python	class:pwpView
+landing_parts	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_parts(request):$/;"	m	language:Python	class:pwpView
+landing_parts_fittings	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_parts_fittings(request):$/;"	m	language:Python	class:pwpView
+landing_removing_fluoride	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_removing_fluoride(request):$/;"	m	language:Python	class:pwpView
+landing_reverse_osmosis	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_reverse_osmosis(request):$/;"	m	language:Python	class:pwpView
+landing_shower	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_shower(request):$/;"	m	language:Python	class:pwpView
+landing_specialty_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_specialty_filters(request):$/;"	m	language:Python	class:pwpView
+landing_tall_1x	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	landing_tall_1x = ImageSpecField(source='image',$/;"	v	language:Python	class:ProductImage
+landing_tall_2x	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	landing_tall_2x = ImageSpecField(source='image',$/;"	v	language:Python	class:ProductImage
+landing_tanks	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_tanks(request):$/;"	m	language:Python	class:pwpView
+landing_ultraviolet	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_ultraviolet(request):$/;"	m	language:Python	class:pwpView
+landing_undersink_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_undersink_filters(request):$/;"	m	language:Python	class:pwpView
+landing_water_treatment_pumps	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_water_treatment_pumps(request):$/;"	m	language:Python	class:pwpView
+landing_whole_house	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def landing_whole_house(request):$/;"	m	language:Python	class:pwpView
+LANGUAGE_CODE	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	v	language:Python
+limit_choices_to	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		limit_choices_to={'code__startswith' : 'ta'},$/;"	v	language:Python	class:SoftenerFeature
+list_display	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	list_display = ('admin_code', 'admin_title',)$/;"	v	language:Python	class:ProductImageSetAdmin
+list_display	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	list_display = ('admin_thumbnail', 'admin_title')$/;"	v	language:Python	class:ProductImageAdmin
+list_display	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	list_display = ('code', 'admin_name', 'admin_description')$/;"	v	language:Python	class:ProductAdmin
+list_filter	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	list_filter = ('categories', 'manufacturer')$/;"	v	language:Python	class:ProductAdmin
+LOCAL_APPS	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^LOCAL_APPS = ($/;"	v	language:Python
+log_the_error	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^		def log_the_error(error_type, product_code, model_name, field, field_value):$/;"	f	language:Python	function:Command.create_models
+manufacturer	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	manufacturer = models.ForeignKey($/;"	v	language:Python	class:Product
+Manufacturer	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class Manufacturer(models.Model):$/;"	c	language:Python
+manufacturer_code	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	manufacturer_code = models.CharField($/;"	v	language:Python	class:Product
+mapleader	/Users/joe/.dotfiles/.vimrc	/^let mapleader ="\\<space>" "remap leader$/;"	v	language:Vim
+mark_safe	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^from django.utils.safestring import mark_safe $/;"	i	language:Python
+material	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	material = models.ForeignKey('Material')$/;"	v	language:Python	class:MaterialList
+Material	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class Material(models.Model):$/;"	c	language:Python
+MaterialList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class MaterialList(models.Model):$/;"	c	language:Python
+MaterialListInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class MaterialListInline(SortableInlineAdminMixin, admin.StackedInline):$/;"	c	language:Python
+max_digits	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_digits=8,$/;"	v	language:Python	class:Product
+max_digits	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_digits=8,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 10,$/;"	v	language:Python	class:OringFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 100,$/;"	v	language:Python	class:TankFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 15,$/;"	v	language:Python	class:TankFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 25,$/;"	v	language:Python	class:BackwashingFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 25,$/;"	v	language:Python	class:Port
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 25,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 25,$/;"	v	language:Python	class:TankFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 25,$/;"	v	language:Python	class:TankFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 25,$/;"	v	language:Python	class:TankFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255, $/;"	v	language:Python	class:UltraVioletFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:Category
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:Material
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:ProductGroup
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:ProductGroup
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:ProductGroup
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:ProductImage
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:ProductImage
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:ProductImageSet
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:RelatedProductList
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:UltraVioletFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 255,$/;"	v	language:Python	class:VendorListingList
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 5,$/;"	v	language:Python	class:OringFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 5,$/;"	v	language:Python	class:OringFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 5,$/;"	v	language:Python	class:OringFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 50,$/;"	v	language:Python	class:Category
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 50,$/;"	v	language:Python	class:TankFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length = 8,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=128,$/;"	v	language:Python	class:Port
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=25,$/;"	v	language:Python	class:CartridgeFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=25,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255$/;"	v	language:Python	class:CartOptionLegacy
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255$/;"	v	language:Python	class:Certification
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255$/;"	v	language:Python	class:Manufacturer
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255, $/;"	v	language:Python	class:CartFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255, $/;"	v	language:Python	class:CartridgeFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255, $/;"	v	language:Python	class:CartridgeFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255, $/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255,$/;"	v	language:Python	class:CartFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255,$/;"	v	language:Python	class:Port
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=255,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=5,$/;"	v	language:Python	class:Product
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		max_length=5,$/;"	v	language:Python	class:TankFeature
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		max_length = 255,$/;"	v	language:Python	class:Image
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		max_length = 255,$/;"	v	language:Python	class:Image
+max_length	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		max_length = 255,$/;"	v	language:Python	class:ImageSet
+max_num	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	max_num = 1$/;"	v	language:Python	class:CartridgeFeatureInline
+max_pressure	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	max_pressure = models.CharField($/;"	v	language:Python	class:TankFeature
+media	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	media = models.ForeignKey($/;"	v	language:Python	class:FilterStageList
+media_capacity	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	media_capacity = models.CharField($/;"	v	language:Python	class:TankFeature
+media_load	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	media_load = models.CharField($/;"	v	language:Python	class:BackwashingFeature
+MEDIA_ROOT	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^MEDIA_ROOT = 'uploads\/'$/;"	v	language:Python
+MEDIA_URL	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^MEDIA_URL = '\/media\/'$/;"	v	language:Python
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:CartOptionLegacy
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:CartOptionList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:Category
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:CertificationList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:Document
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:FilterMedia
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:FilterMediaList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:FilterStageList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:IncludedProductList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:Material
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:MaterialList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:PartsList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:PortsList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:ProductImage
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:RelatedProductList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class Meta:$/;"	c	language:Python	class:VendorListingList
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^	class Meta:$/;"	c	language:Python	class:ProductImageUtil
+Meta	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	class Meta:$/;"	c	language:Python	class:Image
+micron_absolute	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	micron_absolute = models.CharField($/;"	v	language:Python	class:CartridgeFeature
+micron_nominal	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	micron_nominal = models.CharField($/;"	v	language:Python	class:CartridgeFeature
+MIDDLEWARE_CLASSES	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^MIDDLEWARE_CLASSES = ($/;"	v	language:Python
+Migration	/Users/joe/Sites/pwp_v2/pwp_v2/products/migrations/0037_productgroup.py	/^class Migration(migrations.Migration):$/;"	c	language:Python
+migrations	/Users/joe/Sites/pwp_v2/pwp_v2/products/migrations/0037_productgroup.py	/^from django.db import migrations, models$/;"	i	language:Python
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model   = CertificationList$/;"	v	language:Python	class:CertificationInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model   = ProductImage$/;"	v	language:Python	class:ProductImageInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = BackwashingFeature $/;"	v	language:Python	class:BackwashingFeatureInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = CartFeature$/;"	v	language:Python	class:CartFeatureInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = CartOptionList$/;"	v	language:Python	class:CartOptionListInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = CartridgeFeature$/;"	v	language:Python	class:CartridgeFeatureInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = Document$/;"	v	language:Python	class:DocumentInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = FilterStageList$/;"	v	language:Python	class:FilterStageListInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = IncludedProductList$/;"	v	language:Python	class:IncludedProductListInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = MaterialList$/;"	v	language:Python	class:MaterialListInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = PartsList$/;"	v	language:Python	class:PartListInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = PortsList$/;"	v	language:Python	class:PortListInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = RelatedProductList $/;"	v	language:Python	class:RelatedProductListInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = SoftenerFeature$/;"	v	language:Python	class:SoftenerFeatureInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = TankFeature$/;"	v	language:Python	class:TankFeatureInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = TankFeature$/;"	v	language:Python	class:TankFeatureInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = UltraVioletFeature$/;"	v	language:Python	class:UltraVioletFeatureInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	model = VendorListingList$/;"	v	language:Python	class:VendorListingListInline
+model	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/admin.py	/^	model   = Image$/;"	v	language:Python	class:ImageInline
+models	/Users/joe/Sites/pwp_v2/pwp_v2/products/imagerename.py	/^from django.db import models$/;"	i	language:Python
+models	/Users/joe/Sites/pwp_v2/pwp_v2/products/migrations/0037_productgroup.py	/^from django.db import migrations, models$/;"	i	language:Python
+models	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from django.db import models$/;"	i	language:Python
+models	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^from django.db import models$/;"	i	language:Python
+models	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^from django.db import models$/;"	i	language:Python
+MPTTMeta	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	class MPTTMeta:$/;"	c	language:Python	class:Category
+MPTTModel	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^from mptt.models import MPTTModel, TreeForeignKey$/;"	i	language:Python
+MPTTModel	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from mptt.models import MPTTModel, TreeForeignKey, TreeManyToManyField$/;"	i	language:Python
+msrp	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	msrp = models.DecimalField($/;"	v	language:Python	class:Product
+multipure_carbon_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def multipure_carbon_filters(request):$/;"	m	language:Python	class:pwpView
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/migrations/0037_productgroup.py	/^            name='ProductGroup',$/;"	v	language:Python	class:Migration
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField($/;"	v	language:Python	class:CartOptionLegacy
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField($/;"	v	language:Python	class:Category
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField($/;"	v	language:Python	class:Manufacturer
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField($/;"	v	language:Python	class:Material
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField($/;"	v	language:Python	class:Product
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField($/;"	v	language:Python	class:RelatedProductList
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField(max_length=255)$/;"	v	language:Python	class:Document
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField(max_length=255)$/;"	v	language:Python	class:FilterMedia
+name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	name = models.CharField(max_length=255)$/;"	v	language:Python	class:Vendor
+normalize_string	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^		def normalize_string(abnormal_string):$/;"	f	language:Python	function:Command.create_models
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = False,$/;"	v	language:Python	class:Product
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:BackwashingFeature
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:Document
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:FilterStageList
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:FilterStageList
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:Port
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:Product
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:ProductGroup
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:ProductImage
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:ProductImageSet
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null = True,$/;"	v	language:Python	class:SoftenerFeature
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null=True$/;"	v	language:Python	class:CartFeature
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null=True,$/;"	v	language:Python	class:CartFeature
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null=True,$/;"	v	language:Python	class:Category
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null=True,$/;"	v	language:Python	class:Manufacturer
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null=True,$/;"	v	language:Python	class:Port
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null=True,$/;"	v	language:Python	class:Product
+null	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		null=True,$/;"	v	language:Python	class:Product
+null	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		null = True,$/;"	v	language:Python	class:Image
+o	/Users/joe/Sites/pwp_v2/pwp_v2/imagerename.py	/^		o = i.image.name$/;"	v	language:Python
+objects	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	objects = ProductManager()$/;"	v	language:Python	class:Product
+operations	/Users/joe/Sites/pwp_v2/pwp_v2/products/migrations/0037_productgroup.py	/^    operations = [$/;"	v	language:Python	class:Migration
+option	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	option = models.ForeignKey('CartOptionLegacy')$/;"	v	language:Python	class:CartOptionList
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		options={'quality' : 100},$/;"	v	language:Python	class:ProductImage
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		options={'quality' : 100},$/;"	v	language:Python	class:ProductImage
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		options={'quality' : 100},$/;"	v	language:Python	class:ProductImage
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		options={'quality' : 100},$/;"	v	language:Python	class:ProductImage
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		options={'quality' : 100},$/;"	v	language:Python	class:ProductImage
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		options={'quality' : 100},$/;"	v	language:Python	class:ProductImage
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		options={'quality' : 100},$/;"	v	language:Python	class:ProductImage
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		options={'quality' : 10},$/;"	v	language:Python	class:ProductImage
+options	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	options = {'quality' : 100}$/;"	v	language:Python	class:TestSpec
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:CartOptionList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:CertificationList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:Document
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:FilterMediaList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:FilterStageList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:IncludedProductList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:Material
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:MaterialList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:PartsList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:PortsList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:ProductImage
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:RelatedProductList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:VendorListingList
+order	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	order = models.PositiveIntegerField(default=0, blank=False, null=False)$/;"	v	language:Python	class:Image
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	ordering = ['code']$/;"	v	language:Python	class:ProductAdmin
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:CartOptionList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:CertificationList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:Document.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:FilterMediaList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:FilterStageList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:IncludedProductList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:Material.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:MaterialList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:PartsList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:PortsList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:ProductImage.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:RelatedProductList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:VendorListingList.Meta
+ordering	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		ordering = ['order']$/;"	v	language:Python	class:Image.Meta
+order_as	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def order_as(self, *args, **kwargs):$/;"	m	language:Python	class:ProductManager
+order_insertion_by	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		order_insertion_by = ['name']$/;"	v	language:Python	class:Category.MPTTMeta
+OringFeature	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class OringFeature(models.Model):$/;"	c	language:Python
+os	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^import os$/;"	i	language:Python
+os	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^import os$/;"	i	language:Python
+os	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^import os.path$/;"	i	language:Python
+outer_diameter	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	outer_diameter = models.CharField($/;"	v	language:Python	class:OringFeature
+parent	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	parent = TreeForeignKey($/;"	v	language:Python	class:Category
+part	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	part = models.ForeignKey($/;"	v	language:Python	class:PartsList
+partials	/Users/joe/Sites/purauv-fc/gulp/config.js	/^var partials = 'templates\/partials';$/;"	v	language:JavaScript
+PartListInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class PartListInline(SortableInlineAdminMixin, admin.StackedInline):$/;"	c	language:Python
+PartsList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class PartsList(models.Model):$/;"	c	language:Python
+parts_aeration	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_aeration(request):$/;"	m	language:Python	class:pwpView
+parts_air_gap_adapter	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_air_gap_adapter(request):$/;"	m	language:Python	class:pwpView
+parts_countertop	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_countertop(request):$/;"	m	language:Python	class:pwpView
+parts_fleck_valves	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_fleck_valves(request):$/;"	m	language:Python	class:pwpView
+parts_o_rings	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_o_rings(request):$/;"	m	language:Python	class:pwpView
+parts_quick_connect	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_quick_connect(request):$/;"	m	language:Python	class:pwpView
+parts_reverse_osmosis	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_reverse_osmosis(request):$/;"	m	language:Python	class:pwpView
+parts_undersink	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_undersink(request):$/;"	m	language:Python	class:pwpView
+parts_uv20	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_uv20(request):$/;"	m	language:Python	class:pwpView
+parts_watts_leak_protector	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def parts_watts_leak_protector(request):$/;"	m	language:Python	class:pwpView
+path	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^import os.path$/;"	i	language:Python
+pdb	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^import pdb$/;"	i	language:Python
+pdb	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		import pdb$/;"	i	language:Python
+phone_number	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	phone_number = models.CharField(max_length=255, blank=True)$/;"	v	language:Python	class:Vendor
+plist_tall_1x	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	plist_tall_1x = ImageSpecField(source='image',$/;"	v	language:Python	class:ProductImage
+plist_tall_2x	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	plist_tall_2x = ImageSpecField(source='image',$/;"	v	language:Python	class:ProductImage
+port	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	port = models.ForeignKey($/;"	v	language:Python	class:PortsList
+Port	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class Port(models.Model):$/;"	c	language:Python
+PortListInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class PortListInline(SortableInlineAdminMixin, admin.StackedInline):$/;"	c	language:Python
+PortsList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class PortsList(models.Model):$/;"	c	language:Python
+port_position	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	port_position = models.CharField($/;"	v	language:Python	class:Port
+PORT_POSITION_BOTTOM	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_POSITION_BOTTOM = 'bottom'$/;"	v	language:Python	class:Port
+port_position_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	port_position_choices = ($/;"	v	language:Python	class:Port
+PORT_POSITION_DRAIN	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_POSITION_DRAIN = 'drain'$/;"	v	language:Python	class:Port
+PORT_POSITION_INLET	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_POSITION_INLET = 'inlet'$/;"	v	language:Python	class:Port
+PORT_POSITION_OUTLET	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_POSITION_OUTLET = 'outlet'$/;"	v	language:Python	class:Port
+port_size	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	port_size = models.CharField($/;"	v	language:Python	class:Port
+port_type	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	port_type = models.CharField($/;"	v	language:Python	class:Port
+PORT_TYPE_BULKHEAD	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_BULKHEAD = 'bulkhead'$/;"	v	language:Python	class:Port
+port_type_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	port_type_choices = ($/;"	v	language:Python	class:Port
+PORT_TYPE_COMBO	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_COMBO = 'combo'$/;"	v	language:Python	class:Port
+PORT_TYPE_FEMALE_COMPRESSION	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_FEMALE_COMPRESSION = 'female_compression'$/;"	v	language:Python	class:Port
+PORT_TYPE_FEMALE_NPT	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_FEMALE_NPT = 'female_npt'$/;"	v	language:Python	class:Port
+PORT_TYPE_FEMALE_SLIP	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_FEMALE_SLIP = 'female_slip'$/;"	v	language:Python	class:Port
+PORT_TYPE_FEMALE_UNS	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_FEMALE_UNS = 'female_uns'$/;"	v	language:Python	class:Port
+PORT_TYPE_MALE_COMPRESSION	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_MALE_COMPRESSION = 'male_compression'$/;"	v	language:Python	class:Port
+PORT_TYPE_MALE_NPT	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_MALE_NPT = 'male_npt'$/;"	v	language:Python	class:Port
+PORT_TYPE_MALE_SLIP	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_MALE_SLIP = 'male_slip'$/;"	v	language:Python	class:Port
+PORT_TYPE_QUICK_CONNECT	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_QUICK_CONNECT = 'quick_connect'$/;"	v	language:Python	class:Port
+PORT_TYPE_STEM	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	PORT_TYPE_STEM = 'stem'$/;"	v	language:Python	class:Port
+power	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	power = models.CharField($/;"	v	language:Python	class:Product
+POWER_120	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	POWER_120 = '120'$/;"	v	language:Python	class:Product
+POWER_120AC	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	POWER_120AC = '120AC'$/;"	v	language:Python	class:Product
+POWER_12V	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	POWER_12V = '12V'$/;"	v	language:Python	class:Product
+POWER_12VDC	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	POWER_12VDC = '12VDC'$/;"	v	language:Python	class:Product
+POWER_220	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	POWER_220 = '220'$/;"	v	language:Python	class:Product
+POWER_220AC	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	POWER_220AC = '220AC'$/;"	v	language:Python	class:Product
+power_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	power_choices = ( $/;"	v	language:Python	class:Product
+price	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	price = models.DecimalField($/;"	v	language:Python	class:Product
+price	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	price = models.DecimalField(max_digits=8, decimal_places=2)$/;"	v	language:Python	class:VendorListingList
+printlog	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^	def printlog(self, processed_csv):$/;"	m	language:Python	class:Command
+privacy_policy	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def privacy_policy(request):$/;"	m	language:Python	class:pwpView
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		processors=[ResizeToFill(100, 100)],$/;"	v	language:Python	class:ProductImage
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		processors=[ResizeToFill(150, 200)],$/;"	v	language:Python	class:ProductImage
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		processors=[ResizeToFill(150, 300)],$/;"	v	language:Python	class:ProductImage
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		processors=[ResizeToFill(180, 180)],$/;"	v	language:Python	class:ProductImage
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		processors=[ResizeToFill(300, 400)],$/;"	v	language:Python	class:ProductImage
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		processors=[ResizeToFill(360, 360)],$/;"	v	language:Python	class:ProductImage
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		processors=[ResizeToFill(50, 50)],$/;"	v	language:Python	class:ProductImage
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		processors=[ResizeToFill(75, 150)],$/;"	v	language:Python	class:ProductImage
+processors	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	processors = [ResizeToFit(306)]$/;"	v	language:Python	class:TestSpec
+Product	/Users/joe/Sites/pwp_v2/pwp_v2/imagerename.py	/^from products.models import Product$/;"	i	language:Python
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:BackwashingFeature
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:CartFeature
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:CartOptionList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:CartridgeFeature
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:CertificationList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:FilterMediaList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:FilterStageList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:IncludedProductList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:MaterialList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:OringFeature
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:PartsList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:PortsList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:ProductImageSet
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:RelatedProductList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:SoftenerFeature
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:TankFeature
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:UltraVioletFeature
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey($/;"	v	language:Python	class:VendorListingList
+product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	product = models.ForeignKey('Product')$/;"	v	language:Python	class:Document
+Product	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class Product(models.Model):$/;"	c	language:Python
+Product	/Users/joe/Sites/pwp_v2/pwp_v2/products/views.py	/^from .models import Product$/;"	i	language:Python
+product	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product(request, item_id):$/;"	m	language:Python	class:pwpView
+Product	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^from products.models import Product, ProductGroup, Category$/;"	i	language:Python
+ProductAdmin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class ProductAdmin(admin.ModelAdmin):$/;"	c	language:Python
+ProductGroup	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class ProductGroup(models.Model):$/;"	c	language:Python
+ProductGroup	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^from products.models import Product, ProductGroup, Category$/;"	i	language:Python
+ProductImage	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class ProductImage(models.Model):$/;"	c	language:Python
+ProductImageAdmin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class ProductImageAdmin(admin.ModelAdmin):$/;"	c	language:Python
+ProductImageInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class ProductImageInline(SortableInlineAdminMixin, admin.TabularInline):$/;"	c	language:Python
+ProductImageSet	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class ProductImageSet(models.Model):$/;"	c	language:Python
+ProductImageSetAdmin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class ProductImageSetAdmin(admin.ModelAdmin):$/;"	c	language:Python
+ProductImageUtil	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^class ProductImageUtil(models.Model):$/;"	c	language:Python
+productIndexView	/Users/joe/Sites/pwp_v2/pwp_v2/products/views.py	/^def productIndexView(request):$/;"	f	language:Python
+ProductManager	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class ProductManager(models.Manager):$/;"	c	language:Python
+productView	/Users/joe/Sites/pwp_v2/pwp_v2/products/views.py	/^def productView(request, product_code):$/;"	f	language:Python
+product_add_on_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_add_on_filters(request):$/;"	m	language:Python	class:pwpView
+product_aermax	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_aermax(request):$/;"	m	language:Python	class:pwpView
+product_aquatec_pumps	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_aquatec_pumps(request):$/;"	m	language:Python	class:pwpView
+product_axeon_l1300	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_axeon_l1300(request):$/;"	m	language:Python	class:pwpView
+product_big_bubba_whole_house_filter	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_big_bubba_whole_house_filter(request):$/;"	m	language:Python	class:pwpView
+product_bwro	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_bwro(request):$/;"	m	language:Python	class:pwpView
+product_chemical_feed_pumps	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_chemical_feed_pumps(request):$/;"	m	language:Python	class:pwpView
+product_chemilizer	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_chemilizer(request):$/;"	m	language:Python	class:pwpView
+product_chloramine_catcher	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_chloramine_catcher(request):$/;"	m	language:Python	class:pwpView
+product_countertop_ro	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_countertop_ro(request):$/;"	m	language:Python	class:pwpView
+product_dry_pellet_chlorinator	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_dry_pellet_chlorinator(request):$/;"	m	language:Python	class:pwpView
+product_economy_ro	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_economy_ro(request):$/;"	m	language:Python	class:pwpView
+product_emergency_siphon_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_emergency_siphon_filters(request):$/;"	m	language:Python	class:pwpView
+product_filox_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_filox_filters(request):$/;"	m	language:Python	class:pwpView
+product_filters_to_follow_aer_max	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_filters_to_follow_aer_max(request):$/;"	m	language:Python	class:pwpView
+product_filter_media	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_filter_media(request):$/;"	m	language:Python	class:pwpView
+product_fleck_2510_control_valve	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_fleck_2510_control_valve(request):$/;"	m	language:Python	class:pwpView
+product_fleck_5600_backwashing_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_fleck_5600_backwashing_filters(request):$/;"	m	language:Python	class:pwpView
+product_fleck_5600_calcite_filter	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_fleck_5600_calcite_filter(request):$/;"	m	language:Python	class:pwpView
+product_fleck_5600_control_valve	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_fleck_5600_control_valve(request):$/;"	m	language:Python	class:pwpView
+product_fleck_backwashing_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_fleck_backwashing_filters(request):$/;"	m	language:Python	class:pwpView
+product_flexeon_lt300	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_flexeon_lt300(request):$/;"	m	language:Python	class:pwpView
+product_garden_hose_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_garden_hose_filters(request):$/;"	m	language:Python	class:pwpView
+product_garden_hose_filters_large	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_garden_hose_filters_large(request):$/;"	m	language:Python	class:pwpView
+product_garden_hose_softener	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_garden_hose_softener(request):$/;"	m	language:Python	class:pwpView
+product_hm_digital_tds_tester	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_hm_digital_tds_tester(request):$/;"	m	language:Python	class:pwpView
+product_image	/Users/joe/Sites/pwp_v2/pwp_v2/products/templatetags/products.py	/^def product_image(Product, size):$/;"	f	language:Python
+product_ledge_faucets	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_ledge_faucets(request):$/;"	m	language:Python	class:pwpView
+product_light_duty_clear_sediment_filter	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_light_duty_clear_sediment_filter(request):$/;"	m	language:Python	class:pwpView
+product_media_trap	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_media_trap(request):$/;"	m	language:Python	class:pwpView
+product_mineral_tanks	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_mineral_tanks(request):$/;"	m	language:Python	class:pwpView
+product_miscellaneous_tanks	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_miscellaneous_tanks(request):$/;"	m	language:Python	class:pwpView
+product_model_77_countertop_to_undersink_kit	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_model_77_countertop_to_undersink_kit(request):$/;"	m	language:Python	class:pwpView
+product_model_77_countertop_water_filter	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_model_77_countertop_water_filter(request):$/;"	m	language:Python	class:pwpView
+product_model_77_double	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_model_77_double(request):$/;"	m	language:Python	class:pwpView
+product_multipure_hybrids	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_multipure_hybrids(request):$/;"	m	language:Python	class:pwpView
+product_murlok_fittings	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_murlok_fittings(request):$/;"	m	language:Python	class:pwpView
+product_permeate_pump	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_permeate_pump(request):$/;"	m	language:Python	class:pwpView
+product_pura_uv_ultraviolet_purifiers	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_pura_uv_ultraviolet_purifiers(request):$/;"	m	language:Python	class:pwpView
+product_q_series_ro	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_q_series_ro(request):$/;"	m	language:Python	class:pwpView
+product_ro_storage_tanks	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_ro_storage_tanks(request):$/;"	m	language:Python	class:pwpView
+product_ro_storage_tanks_large	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_ro_storage_tanks_large(request):$/;"	m	language:Python	class:pwpView
+product_sand_trap	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_sand_trap(request):$/;"	m	language:Python	class:pwpView
+product_single_tank_aerator	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_single_tank_aerator(request):$/;"	m	language:Python	class:pwpView
+product_softener_backwashing_accessories	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_softener_backwashing_accessories(request):$/;"	m	language:Python	class:pwpView
+product_spin_down_sediment_filter	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_spin_down_sediment_filter(request):$/;"	m	language:Python	class:pwpView
+product_sprite_hand_held	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_sprite_hand_held(request):$/;"	m	language:Python	class:pwpView
+product_sprite_shower_falls	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_sprite_shower_falls(request):$/;"	m	language:Python	class:pwpView
+product_sprite_shower_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_sprite_shower_filters(request):$/;"	m	language:Python	class:pwpView
+product_stainless_steel_whole_house_filter	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_stainless_steel_whole_house_filter(request):$/;"	m	language:Python	class:pwpView
+product_standard_housings	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_standard_housings(request):$/;"	m	language:Python	class:pwpView
+product_undersink_filter_black_and_white	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_undersink_filter_black_and_white(request):$/;"	m	language:Python	class:pwpView
+product_undersink_filter_double	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_undersink_filter_double(request):$/;"	m	language:Python	class:pwpView
+product_undersink_filter_simple	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_undersink_filter_simple(request):$/;"	m	language:Python	class:pwpView
+product_undersink_filter_single	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_undersink_filter_single(request):$/;"	m	language:Python	class:pwpView
+product_undersink_filter_triple	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_undersink_filter_triple(request):$/;"	m	language:Python	class:pwpView
+product_undersink_fluoride_filter	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_undersink_fluoride_filter(request):$/;"	m	language:Python	class:pwpView
+product_unrust_irrigation_treatment	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_unrust_irrigation_treatment(request):$/;"	m	language:Python	class:pwpView
+product_viqua_housings	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_viqua_housings(request):$/;"	m	language:Python	class:pwpView
+product_viqua_uv	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_viqua_uv(request):$/;"	m	language:Python	class:pwpView
+product_vitabath_vitamin_c_tablets	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_vitabath_vitamin_c_tablets(request):$/;"	m	language:Python	class:pwpView
+product_washing_machine_filters	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_washing_machine_filters(request):$/;"	m	language:Python	class:pwpView
+product_water_check	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_water_check(request):$/;"	m	language:Python	class:pwpView
+product_water_softeners	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_water_softeners(request):$/;"	m	language:Python	class:pwpView
+product_watts_r12_whole_house_ro	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_watts_r12_whole_house_ro(request):$/;"	m	language:Python	class:pwpView
+product_watts_scalenet	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_watts_scalenet(request):$/;"	m	language:Python	class:pwpView
+product_watts_uv	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_watts_uv(request):$/;"	m	language:Python	class:pwpView
+product_whole_house_filters_compact	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_whole_house_filters_compact(request):$/;"	m	language:Python	class:pwpView
+product_whole_house_filters_compact_10_inch	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_whole_house_filters_compact_10_inch(request):$/;"	m	language:Python	class:pwpView
+product_whole_house_filters_compact_thin	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def product_whole_house_filters_compact_thin(request):$/;"	m	language:Python	class:pwpView
+PROJECT_ROOT	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, '..\/'))$/;"	v	language:Python
+proxy	/Users/joe/Sites/purauv-fc/gulp/config.js	/^var proxy = 'http:\/\/localhost\/~joe\/_projects\/gulp-boilerplate';$/;"	v	language:JavaScript
+pwpView	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/urls.py	/^from .views import pwpView, docs_manual, test_view$/;"	i	language:Python
+pwpView	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^class pwpView(View):$/;"	c	language:Python
+random	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^import random$/;"	i	language:Python
+re	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^import re$/;"	i	language:Python
+reaction_chamber_size	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	reaction_chamber_size = models.CharField($/;"	v	language:Python	class:UltraVioletFeature
+readonly_fields	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	readonly_fields = ('admin_thumbnail', 'admin_title')$/;"	v	language:Python	class:ProductImageAdmin
+register	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from imagekit import ImageSpec, register$/;"	i	language:Python
+register	/Users/joe/Sites/pwp_v2/pwp_v2/products/templatetags/products.py	/^register = template.Library()$/;"	v	language:Python
+RelatedProductList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class RelatedProductList(models.Model):$/;"	c	language:Python
+RelatedProductListInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class RelatedProductListInline(SortableInlineAdminMixin, admin.StackedInline):$/;"	c	language:Python
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'backwashing_features'$/;"	v	language:Python	class:BackwashingFeature
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'cartridge',$/;"	v	language:Python	class:FilterStageList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'cartridge_features',$/;"	v	language:Python	class:CartridgeFeature
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'cart_features',$/;"	v	language:Python	class:CartFeature
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'cart_options',$/;"	v	language:Python	class:CartOptionList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'certifications',$/;"	v	language:Python	class:CertificationList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'filter_media'$/;"	v	language:Python	class:FilterMediaList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'filter_stages'$/;"	v	language:Python	class:FilterStageList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'included_product',$/;"	v	language:Python	class:IncludedProductList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'materials'$/;"	v	language:Python	class:MaterialList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'media',$/;"	v	language:Python	class:FilterStageList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'oring_features'$/;"	v	language:Python	class:OringFeature
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'parts',$/;"	v	language:Python	class:PartsList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'port',$/;"	v	language:Python	class:PortsList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'ports',$/;"	v	language:Python	class:PortsList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'product_images',$/;"	v	language:Python	class:ProductImageSet
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'product_image_set',$/;"	v	language:Python	class:ProductImage
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'related_products',$/;"	v	language:Python	class:RelatedProductList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'softener_features',$/;"	v	language:Python	class:SoftenerFeature
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'tank_features',$/;"	v	language:Python	class:TankFeature
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'ultraviolet_features',$/;"	v	language:Python	class:UltraVioletFeature
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'valve',$/;"	v	language:Python	class:BackwashingFeature
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name = 'vendor_features',$/;"	v	language:Python	class:VendorListingList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name='children',$/;"	v	language:Python	class:Category
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		related_name='part',$/;"	v	language:Python	class:PartsList
+related_name	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		related_name = 'image_set',$/;"	v	language:Python	class:Image
+related_products	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	related_products = models.ManyToManyField('Product')$/;"	v	language:Python	class:RelatedProductList
+render	/Users/joe/Sites/pwp_v2/pwp_v2/products/views.py	/^from django.shortcuts import render$/;"	i	language:Python
+render	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^from django.shortcuts import render$/;"	i	language:Python
+ResizeToFill	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from imagekit.processors import ResizeToFill, ResizeToFit$/;"	i	language:Python
+ResizeToFit	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from imagekit.processors import ResizeToFill, ResizeToFit$/;"	i	language:Python
+returns	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def returns(request):$/;"	m	language:Python	class:pwpView
+ROOT_URLCONF	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^ROOT_URLCONF = 'config.urls'$/;"	v	language:Python
+sass	/Users/joe/Sites/purauv-fc/gulp/tasks/stylesheets.js	/^var sass = require('gulp-sass');$/;"	v	language:JavaScript
+save	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def save(self, force_insert=False, force_update=False):$/;"	m	language:Python	class:ProductImage
+search_fields	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	search_fields = ['code', 'name']$/;"	v	language:Python	class:ProductAdmin
+search_fields	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	search_fields = ['product__code', 'title']$/;"	v	language:Python	class:ProductImageSetAdmin
+SECRET_KEY	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^SECRET_KEY = env('DJANGO_SECRET_KEY')$/;"	v	language:Python
+secure_card	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def secure_card(request):$/;"	m	language:Python	class:pwpView
+serve	/Users/joe/Sites/pwp_v2/pwp_v2/config/urls.py	/^from django.views.static import serve$/;"	i	language:Python
+settings	/Users/joe/Sites/pwp_v2/pwp_v2/config/urls.py	/^from django.conf import settings$/;"	i	language:Python
+settings	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^from django.conf import settings$/;"	i	language:Python
+settings	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^from django.conf import settings$/;"	i	language:Python
+settings	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/urls.py	/^from django.conf import settings$/;"	i	language:Python
+shipping	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def shipping(request):$/;"	m	language:Python	class:pwpView
+slug	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	slug = models.CharField($/;"	v	language:Python	class:Category
+slug	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	slug = models.CharField($/;"	v	language:Python	class:ProductGroup
+SoftenerFeature	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class SoftenerFeature(models.Model):$/;"	c	language:Python
+SoftenerFeatureInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class SoftenerFeatureInline(admin.StackedInline):$/;"	c	language:Python
+SortableAdminMixin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^from adminsortable2.admin import SortableAdminMixin, SortableInlineAdminMixin$/;"	i	language:Python
+SortableAdminMixin	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/admin.py	/^from adminsortable2.admin import SortableAdminMixin, SortableInlineAdminMixin$/;"	i	language:Python
+SortableInlineAdminMixin	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^from adminsortable2.admin import SortableAdminMixin, SortableInlineAdminMixin$/;"	i	language:Python
+SortableInlineAdminMixin	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/admin.py	/^from adminsortable2.admin import SortableAdminMixin, SortableInlineAdminMixin$/;"	i	language:Python
+static	/Users/joe/Sites/purauv-fc/gulp/config.js	/^var static = 'templates\/static';$/;"	v	language:JavaScript
+static	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/urls.py	/^from django.conf.urls.static import static$/;"	i	language:Python
+staticCSS	/Users/joe/Sites/purauv-fc/gulp/config.js	/^var staticCSS = 'templates\/static\/css';$/;"	v	language:JavaScript
+STATICFILES_DIRS	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^STATICFILES_DIRS = ($/;"	v	language:Python
+STATICFILES_FINDERS	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^STATICFILES_FINDERS = ($/;"	v	language:Python
+staticJS	/Users/joe/Sites/purauv-fc/gulp/config.js	/^var staticJS = 'templates\/static\/js';$/;"	v	language:JavaScript
+STATIC_ROOT	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^STATIC_ROOT = os.path.join(PROJECT_ROOT,'staticfiles')$/;"	v	language:Python
+STATIC_URL	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^STATIC_URL = '\/static\/'$/;"	v	language:Python
+status	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	status = models.CharField($/;"	v	language:Python	class:Product
+STATUS_ACTIVE	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	STATUS_ACTIVE = 'active'$/;"	v	language:Python	class:Product
+status_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	status_choices = ($/;"	v	language:Python	class:Product
+STATUS_INACTIVE	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	STATUS_INACTIVE = 'inactive'$/;"	v	language:Python	class:Product
+StringIO	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^from io import StringIO$/;"	i	language:Python
+TankFeature	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class TankFeature(models.Model):$/;"	c	language:Python
+TankFeatureInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class TankFeatureInline(admin.StackedInline):$/;"	c	language:Python
+TankFeatureInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class TankFeatureInline(admin.StackedInline):$/;"	c	language:Python
+tank_material	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	tank_material = models.CharField($/;"	v	language:Python	class:TankFeature
+tank_material_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	tank_material_choices = ($/;"	v	language:Python	class:TankFeature
+TANK_MATERIAL_FIBERGLASS	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_MATERIAL_FIBERGLASS = 'fiberglass'$/;"	v	language:Python	class:TankFeature
+TANK_MATERIAL_METAL	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_MATERIAL_METAL = 'metal'$/;"	v	language:Python	class:TankFeature
+TANK_MATERIAL_PLASTIC	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_MATERIAL_PLASTIC = 'plastic'$/;"	v	language:Python	class:TankFeature
+tank_size	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	tank_size = models.CharField($/;"	v	language:Python	class:TankFeature
+TANK_SIZE_10_40	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_10_40 = '10_40'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_10_44	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_10_44 = '10_44'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_10_47	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_10_47 = '10_47'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_10_54	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_10_54 = '10_54'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_12_48	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_12_48 = '12_48'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_12_52	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_12_52 = '12_52'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_12_60	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_12_60 = '12_60'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_13_54	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_13_54 = '13_54'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_14_65	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_14_65 = '14_65'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_15_17_36	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_15_17_36 = '15_17_36'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_16_44	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_16_44 = '16_44'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_16_56	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_16_56 = '16_56'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_16_65	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_16_65 = '16_65'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_18_33	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_18_33 = '18_33'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_18_40	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_18_40 = '18_40'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_18_65	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_18_65 = '18_65'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_21_62	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_21_62 = '21_62'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_21_67	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_21_67 = '21_67'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_24_72	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_24_72 = '24_72'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_6_13	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_6_13 = '06_13'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_6_18	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_6_18 = '06_18'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_6_35	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_6_35 = '06_35'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_7_44	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_7_44 = '07_44'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_8_44	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_8_44 = '08_44'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_9_40	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_9_40 = '09_40'$/;"	v	language:Python	class:TankFeature
+TANK_SIZE_9_48	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_SIZE_9_48 = '09_48'$/;"	v	language:Python	class:TankFeature
+tank_size_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	tank_size_choices = ($/;"	v	language:Python	class:TankFeature
+tank_type	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	tank_type = models.CharField($/;"	v	language:Python	class:TankFeature
+TANK_TYPE_ATMOSPHERIC	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_TYPE_ATMOSPHERIC = 'atmospheric'$/;"	v	language:Python	class:TankFeature
+TANK_TYPE_BRINE	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_TYPE_BRINE = 'brine'$/;"	v	language:Python	class:TankFeature
+tank_type_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	tank_type_choices = ($/;"	v	language:Python	class:TankFeature
+TANK_TYPE_MINERAL	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_TYPE_MINERAL = 'mineral'$/;"	v	language:Python	class:TankFeature
+TANK_TYPE_PRESSURE	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_TYPE_PRESSURE = 'pressure'$/;"	v	language:Python	class:TankFeature
+TANK_TYPE_SOLUTION	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	TANK_TYPE_SOLUTION = 'solution'$/;"	v	language:Python	class:TankFeature
+template	/Users/joe/Sites/pwp_v2/pwp_v2/products/templatetags/products.py	/^from django import template$/;"	i	language:Python
+TEMPLATES	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^TEMPLATES = [$/;"	v	language:Python
+terms	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def terms(request):$/;"	m	language:Python	class:pwpView
+testMethod	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^	def testMethod(self):$/;"	m	language:Python	class:ProductImageUtil
+TestSpec	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class TestSpec(ImageSpec):$/;"	c	language:Python
+test_view	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/urls.py	/^from .views import pwpView, docs_manual, test_view$/;"	i	language:Python
+test_view	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^def test_view(request):$/;"	f	language:Python
+THIRD_PARTY_APPS	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^THIRD_PARTY_APPS = ($/;"	v	language:Python
+thumbnail	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^	def thumbnail(self):$/;"	m	language:Python	class:ProductImageUtil
+thumbnail_1x	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	thumbnail_1x = ImageSpecField(source='image',$/;"	v	language:Python	class:ProductImage
+thumbnail_2x	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	thumbnail_2x = ImageSpecField(source='image',$/;"	v	language:Python	class:ProductImage
+TIME_ZONE	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^TIME_ZONE = 'UTC'$/;"	v	language:Python
+title	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	title = models.CharField($/;"	v	language:Python	class:Certification
+title	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	title = models.CharField($/;"	v	language:Python	class:ProductGroup
+title	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	title = models.CharField($/;"	v	language:Python	class:ProductImageSet
+title	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	title = models.CharField($/;"	v	language:Python	class:ImageSet
+ToggleNumber	/Users/joe/.dotfiles/.vimrc	/^function! ToggleNumber()$/;"	f	language:Vim
+translate_value	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^		def translate_value(field, value):$/;"	f	language:Python	function:Command.create_models
+TreeForeignKey	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^from mptt.models import MPTTModel, TreeForeignKey$/;"	i	language:Python
+TreeForeignKey	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from mptt.models import MPTTModel, TreeForeignKey, TreeManyToManyField$/;"	i	language:Python
+TreeManyToManyField	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^from mptt.models import MPTTModel, TreeForeignKey, TreeManyToManyField$/;"	i	language:Python
+UltraVioletFeature	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class UltraVioletFeature(models.Model):$/;"	c	language:Python
+UltraVioletFeatureInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class UltraVioletFeatureInline(admin.StackedInline):$/;"	c	language:Python
+unicode_literals	/Users/joe/Sites/pwp_v2/pwp_v2/products/migrations/0037_productgroup.py	/^from __future__ import unicode_literals$/;"	i	language:Python
+unique	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		unique=True,$/;"	v	language:Python	class:Product
+UNIT_COUNT	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	UNIT_COUNT = 'count'$/;"	v	language:Python	class:Product
+UNIT_CUBIC_FEET	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	UNIT_CUBIC_FEET = 'cubic_feet'$/;"	v	language:Python	class:Product
+UNIT_INCHES	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	UNIT_INCHES = 'inches'$/;"	v	language:Python	class:Product
+UNIT_LINEAR_FEET	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	UNIT_LINEAR_FEET = 'linear_feet'$/;"	v	language:Python	class:Product
+UNIT_LITERS	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	UNIT_LITERS = 'liters' $/;"	v	language:Python	class:Product
+unit_of_measure	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	unit_of_measure = models.CharField($/;"	v	language:Python	class:Product
+unit_of_measure_choices	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	unit_of_measure_choices = ($/;"	v	language:Python	class:Product
+UNIT_POUNDS	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	UNIT_POUNDS = 'pounds'$/;"	v	language:Python	class:Product
+upload_to	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		upload_to = 'img\/products\/',$/;"	v	language:Python	class:ProductImage
+upload_to	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		upload_to = 'uploads\/docs\/',$/;"	v	language:Python	class:Document
+upload_to	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		upload_to = 'uploads\/img\/',$/;"	v	language:Python	class:ProductGroup
+upload_to	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^		upload_to = 'img\/',$/;"	v	language:Python	class:Image
+url	/Users/joe/Sites/pwp_v2/pwp_v2/config/urls.py	/^from django.conf.urls import include, url$/;"	i	language:Python
+url	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	url = models.URLField($/;"	v	language:Python	class:Manufacturer
+url	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	url = models.URLField(blank=True)$/;"	v	language:Python	class:Vendor
+url	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/urls.py	/^from django.conf.urls import url$/;"	i	language:Python
+urlpatterns	/Users/joe/Sites/pwp_v2/pwp_v2/config/urls.py	/^urlpatterns = [$/;"	v	language:Python
+urlpatterns	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/urls.py	/^urlpatterns = [$/;"	v	language:Python
+USE_I18N	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^USE_I18N = True$/;"	v	language:Python
+USE_L10N	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^USE_L10N = True$/;"	v	language:Python
+USE_TZ	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^USE_TZ = True$/;"	v	language:Python
+valve	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	valve = models.ForeignKey($/;"	v	language:Python	class:BackwashingFeature
+vendor	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	vendor = models.ForeignKey('Vendor')$/;"	v	language:Python	class:VendorListingList
+Vendor	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class Vendor(models.Model):$/;"	c	language:Python
+VendorListingList	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^class VendorListingList(models.Model):$/;"	c	language:Python
+VendorListingListInline	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^class VendorListingListInline(SortableInlineAdminMixin, admin.TabularInline):$/;"	c	language:Python
+vendor_code	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	vendor_code = models.CharField($/;"	v	language:Python	class:VendorListingList
+verbose_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		verbose_name = 'Bottom Drain'$/;"	v	language:Python	class:TankFeature
+verbose_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		verbose_name = 'Brine Safety'$/;"	v	language:Python	class:TankFeature
+verbose_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		verbose_name = 'Dome hole'$/;"	v	language:Python	class:TankFeature
+verbose_name	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		verbose_name = 'Legacy Cart Option'$/;"	v	language:Python	class:CartOptionLegacy.Meta
+verbose_name_plural	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		verbose_name_plural = 'Cart Options (legacy)'$/;"	v	language:Python	class:CartOptionLegacy.Meta
+verbose_name_plural	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		verbose_name_plural = 'Categories'$/;"	v	language:Python	class:Category.Meta
+verbose_name_plural	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^		verbose_name_plural = 'FilterMedia'$/;"	v	language:Python	class:FilterMedia.Meta
+View	/Users/joe/Sites/pwp_v2/pwp_v2/products/views.py	/^from django.views.generic import View$/;"	i	language:Python
+View	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^from django.views.generic import View$/;"	i	language:Python
+visible	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	visible = True$/;"	v	language:Python	class:CartFeatureInline
+visible	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	visible = True$/;"	v	language:Python	class:CartOptionListInline
+visible	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	visible = True$/;"	v	language:Python	class:CertificationInline
+visible	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	visible = True$/;"	v	language:Python	class:DocumentInline
+visible	/Users/joe/Sites/pwp_v2/pwp_v2/products/admin.py	/^	visible = True$/;"	v	language:Python	class:ProductImageInline
+volume_discount	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def volume_discount(request):$/;"	m	language:Python	class:pwpView
+vortech	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	vortech = models.BooleanField($/;"	v	language:Python	class:TankFeature
+warranties	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def warranties(request):$/;"	m	language:Python	class:pwpView
+water_problems	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def water_problems(request):$/;"	m	language:Python	class:pwpView
+water_treatment_manufacturers	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/views.py	/^	def water_treatment_manufacturers(request):$/;"	m	language:Python	class:pwpView
+weight	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	weight = models.CharField($/;"	v	language:Python	class:Product
+width	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	width = models.CharField($/;"	v	language:Python	class:Product
+WSGI_APPLICATION	/Users/joe/Sites/pwp_v2/pwp_v2/config/settings.py	/^WSGI_APPLICATION = 'config.wsgi.application'$/;"	v	language:Python
+zip_longest	/Users/joe/Sites/pwp_v2/pwp_v2/products/management/commands/import_products.py	/^from itertools import zip_longest$/;"	i	language:Python
+_	/Users/joe/Sites/pwp_v2/pwp_v2/imagerename.py	/^_ = Product.objects.all()$/;"	v	language:Python
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:BackwashingFeature	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:CartFeature	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:CartOptionLegacy	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:CartridgeFeature	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:Category	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:Certification	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:Document	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:FilterMedia	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:Manufacturer	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:OringFeature	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:Port	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:Product	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:ProductGroup	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:ProductImageSet	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:SoftenerFeature	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:TankFeature	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:UltraVioletFeature	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:Vendor	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def __str__(self):$/;"	m	language:Python	class:VendorListingList	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/product_image.py	/^	def __str__(self):$/;"	m	language:Python	class:ProductImageUtil	file:
+__str__	/Users/joe/Sites/pwp_v2/pwp_v2/pwp/models.py	/^	def __str__(self):$/;"	m	language:Python	class:ImageSet	file:
+___str__	/Users/joe/Sites/pwp_v2/pwp_v2/products/models.py	/^	def ___str__(self):$/;"	m	language:Python	class:Material	file:

@@ -4,7 +4,7 @@
 
 execute pathogen#infect()
 execute pathogen#helptags() 
-filetype plugin indent on
+filetype plugin on
 
 " set colors
 set t_Co=256
@@ -41,9 +41,14 @@ set history=1000 " set undo history
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
-set expandtab
+set noexpandtab
 
-filetype indent on " filetype indent off
+"no auto indent!^
+set nocindent
+set nosmartindent
+set noautoindent
+filetype indent off
+filetype plugin indent off
 
 set lazyredraw " redraw only when needed
 set showmatch " highlight matchign [{()}]
@@ -77,6 +82,10 @@ set visualbell " no bell
 set laststatus=2 " set status for single window 
 set cmdheight=1 " set command line height
 
+" easytags setup
+
+let g:easytags_file = '~/.vim/tags'
+
 " mappings 
 
 let mapleader ="\<space>" "remap leader
@@ -93,8 +102,8 @@ nmap <C-n> :bnext<CR>
 nmap <C-p> :bprev<CR>
 
 map <leader>t :NERDTreeToggle<CR>
-
 map <leader>! :call ToggleNumber()<CR>
+nmap <leader>b :TagbarToggle<CR>
 
 function! ToggleNumber()
     if(&relativenumber == 1)

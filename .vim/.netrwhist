@@ -1,3 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/joe/Sites/pwp-vapor/gulp'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/joe/Sites/pwp_v2_django/pwp_v2_django/scripts'
+let g:netrw_dirhist_2='/Users/joe/Sites/pwp_v2_django/pwp_v2/static/css/style.css'
